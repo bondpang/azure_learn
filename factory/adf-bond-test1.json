@@ -1,0 +1,9 @@
+{
+	"name": "adf-bond-test1",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e63f56c2-a5f1-41a9-9fa6-ce3ea1299c55",
+		"tenantId": "43625bb1-3d5b-4b74-b1d1-bf790699e396"
+	}
+}

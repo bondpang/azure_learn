@@ -1,0 +1,10 @@
+{
+	"name": "AzureSqlDatabase_PE1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7d22e117-45fd-4566-ada3-7eb6beb87636/resourceGroups/rg_bond_test1/providers/Microsoft.Sql/servers/sqlserverbond1",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"sqlserverbond1.database.windows.net"
+		]
+	}
+}
